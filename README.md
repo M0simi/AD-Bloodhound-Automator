@@ -16,5 +16,6 @@
 
 2. Run the automation script against your lab or target AD environment:
    ```bash
-   python bloodhound_automator.py -d corp.local -u administrator -p "SecurePassword123" --dc-ip 192.168.1.10 -c All -o ./results
+   python bloodhound_automator.py -d example.comm -u administrator -p "SecurePassword123" --dc-ip 000.000.000.000 -c All -o ./results
    ```
+   
